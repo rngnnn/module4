@@ -8,4 +8,4 @@ if num1.is_integer():
   print(f"The number is an integer: {int(num1)}")
 else:
   
-    print(f"The number is a decimal: {num1}")  # If it's not an integer, print it as a float
+    print(f"The number is a decimal: {num1}")  # If it's not an integer, print it as a float9

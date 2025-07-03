@@ -21,4 +21,7 @@ num2=int(num2)  # Convert the input 7to an integer
 print(f"{num1} + {num2} = {num1+num2}")
 print(f"{num1} - {num2} = {num1-num2}")
 print(f"{num1} * {num2} = {num1*num2}")
-print(f"{num1} / {num2} = {num1/num2}")
+print(f"{num1} / {num2} = {num1//num2}")
+
+
+#iki slash eklediginde otamatik olarak tam sayi yapar
